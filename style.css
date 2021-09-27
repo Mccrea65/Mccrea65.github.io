@@ -227,6 +227,12 @@ footer {
         padding: 45px;
     }
 
+    .logo {
+        width: 150px;
+        margin-top: -5px;
+        margin-left: -60px;
+    }
+
 }
 
 @media (max-width: 700px) {
