@@ -223,6 +223,9 @@ footer {
         align-items: center;
     }
 
+    .heroBanner-content {
+        padding: 45px;
+    }
 
 }
 
